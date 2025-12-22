@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"总有一天要加上你
-  email            : "lwkxb19@gamil.com"
+  email            : "lwkxb19@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Pilgrimage19"
+  cv_link          : "https://pilgrimage19.github.io/cv/cv.pdf"
   google_plus      :
   keybase          :
   instagram        :
