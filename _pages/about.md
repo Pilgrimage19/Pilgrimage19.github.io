@@ -31,7 +31,7 @@ I’m always looking for chances to learn from others. If you’d like to share 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Explore Branches the Story didn’t Narrate: An LLM Solution](https://wordplay-workshop.github.io/pdfs/35.pdf)
